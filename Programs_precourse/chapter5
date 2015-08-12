@@ -1,0 +1,107 @@
+Last login: Wed Aug  5 20:05:02 on ttys000
+-bash: export: `=Wednesday': not a valid identifier
+-bash: export: `=': not a valid identifier
+Adrians-Air:~ Adrian1707$ ruby calc.rb
+ruby: No such file or directory -- calc.rb (LoadError)
+Adrians-Air:~ Adrian1707$ pwd
+/Users/Adrian1707
+Adrians-Air:~ Adrian1707$ cd Documents
+Adrians-Air:Documents Adrian1707$ cd Makers_precourse
+Adrians-Air:Makers_precourse Adrian1707$ cd Programs_precourse
+Adrians-Air:Programs_precourse Adrian1707$ ruby calc.rb
+3
+Adrians-Air:Programs_precourse Adrian1707$ ruby calc.rb
+3
+4.0
+-3.0
+4.5
+Adrians-Air:Programs_precourse Adrian1707$ ruby calc.rb
+3
+5.0
+-3.0
+4.5
+Adrians-Air:Programs_precourse Adrian1707$ ruby calc.rb
+3
+5.0
+-3.0
+4.5
+Adrians-Air:Programs_precourse Adrian1707$ ruby calc.rb
+3
+6.0
+40.0
+4.5
+Adrians-Air:Programs_precourse Adrian1707$ ruby calc.rb
+3
+6.0
+-3.0
+4.5
+Adrians-Air:Programs_precourse Adrian1707$ ruby calc.rb
+3
+6.0
+-3.0
+4.5
+3
+6
+-3
+4
+Adrians-Air:Programs_precourse Adrian1707$ 
+Adrians-Air:Programs_precourse Adrian1707$ 
+Adrians-Air:Programs_precourse Adrian1707$ ruby calc.rb
+3
+6.0
+-3.0
+4.5
+3
+6
+-3
+4
+Adrians-Air:Programs_precourse Adrian1707$ ruby calc.rb
+3
+6.0
+-3.0
+4.5
+3
+6
+-3
+4
+5
+-29227
+Adrians-Air:Programs_precourse Adrian1707$ cd 
+Adrians-Air:~ Adrian1707$ ln -s  "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+Adrians-Air:~ Adrian1707$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+It appears Homebrew is already installed. If your intent is to reinstall you
+should do the following before running this installer again:
+    rm -rf /usr/local/Cellar /usr/local/.git && brew cleanup
+Adrians-Air:~ Adrian1707$ ln -s  "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+ln: /usr/local/bin/subl: File exists
+Adrians-Air:~ Adrian1707$ subl .
+Adrians-Air:~ Adrian1707$ ruby time_calculations.rb
+ruby: No such file or directory -- time_calculations.rb (LoadError)
+Adrians-Air:~ Adrian1707$ cd 
+Adrians-Air:~ Adrian1707$ cd Documents
+Adrians-Air:Documents Adrian1707$ cd Makers_precourse
+Adrians-Air:Makers_precourse Adrian1707$ cd Programs_precourse
+Adrians-Air:Programs_precourse Adrian1707$ ruby time_calculations.rb
+8736
+5256000
+95525
+Adrians-Air:Programs_precourse Adrian1707$ ruby string.rb
+blinkblinkblinkblinkblink
+Adrians-Air:Programs_precourse Adrian1707$ ruby string.rb
+blinkblinkblinkblinkblinkAdrians-Air:Programs_precourse Adrian1707$ ruby string.rb
+blink\nblink\nblink\nblink\nblink\n
+Adrians-Air:Programs_precourse Adrian1707$ ruby string.rb
+blink
+blink
+blink
+blink
+blink
+Adrians-Air:Programs_precourse Adrian1707$ ruby string.rb
+blink
+blink
+blink
+You're swell!
+Adrians-Air:Programs_precourse Adrian1707$ ruby chapter4_variables
+...you can say that again...
+...you can say that again...
+Adrians-Air:Programs_precourse Adrian1707$ 
